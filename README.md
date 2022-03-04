@@ -2,7 +2,10 @@
 
 ## Abstract
 &emsp; You can use this [Real-ESRGAN] to train and test yourself.
+This repository is a simple rewrite of the official Real-ESRGAN with as little performance degradation as possible.
 The code presented in this repository can perform super-resolution on variety of noises as well as the official Real-ESRGAN.
+In other words, super-resolution can be performed not only on low-resolution images compressed by "bicubic", but also on images compressed by "area" and "bilinear".
+In addition, super-resolution can be performed on images to which a Gaussian filter is applied.
 This function is achieved by learning on low-resolution images with various noises applied.
 The generators, discriminators, and loss functions are exactly the same as in the official Real-ESRGAN, allowing for a more sophisticated super-resolution experience.
 
