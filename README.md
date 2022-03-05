@@ -22,6 +22,7 @@ The generators, discriminators, and loss functions are exactly the same as in th
 &emsp; Perform super-resolution on low-resolution images with various random noises applied. 
 Five test images were prepared. 
 Each of these five images was divided into four parts, and different noises were applied to the upper left, upper right, lower left, and lower right.
+ The ground-truth images can be seen in the "images" folder.
  
 ### Results <br>
 <table>
