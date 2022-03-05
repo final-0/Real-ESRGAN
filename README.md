@@ -23,14 +23,6 @@ The generators, discriminators, and loss functions are exactly the same as in th
  ## Results <br>
 <table>
    <tr>
-    <td><img src="images/input0.png" width=384 height=384></td>
-    <td><img src="images/output0.png" width=384 height=384></td>
-   </tr>
-   <tr>
-    <td align="center">input</td>
-    <td align="center">output</td>
-   </tr>
-   <tr>
     <td><img src="images/input1.png" width=384 height=384></td>
     <td><img src="images/output1.png" width=384 height=384></td>
    </tr>
@@ -57,6 +49,14 @@ The generators, discriminators, and loss functions are exactly the same as in th
    <tr>
     <td><img src="images/input4.png" width=384 height=384></td>
     <td><img src="images/output4.png" width=384 height=384></td>
+   </tr>
+   <tr>
+    <td align="center">input</td>
+    <td align="center">output</td>
+   </tr>
+   <tr>
+    <td><img src="images/input0.png" width=384 height=384></td>
+    <td><img src="images/output0.png" width=384 height=384></td>
    </tr>
    <tr>
     <td align="center">input</td>
