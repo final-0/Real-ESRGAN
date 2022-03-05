@@ -1,5 +1,5 @@
 """
-    Modified from https://github.com/xinntao/Real-ESRGAN
+Modified from https://github.com/xinntao/Real-ESRGAN
 """
 import cv2
 import numpy as np
