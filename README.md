@@ -19,8 +19,11 @@ The generators, discriminators, and loss functions are exactly the same as in th
 
 ### test <by>
 - esrgan_test.py <br>
+&emsp; Perform super-resolution on low-resolution images with various random noises applied. 
+Five test images were prepared. 
+Each of these five images was divided into four parts, and different noises were applied to the upper left, upper right, lower left, and lower right.
  
- ## Results <br>
+### Results <br>
 <table>
    <tr>
     <td><img src="images/input1.png" width=384 height=384></td>
