@@ -9,6 +9,18 @@ In addition, super-resolution can be performed on images to which a Gaussian fil
 This function is achieved by learning on low-resolution images with various noises applied.
 The generators, discriminators, and loss functions are exactly the same as in the official Real-ESRGAN, allowing for a more sophisticated super-resolution experience.
 
+### default settings <br>
+- learning rate : 0.0001
+- epochs : 20
+- image size : 1024x1024
+
+### training <br>
+- esrgan.py <br>
+
+### test <by>
+- esrgan_test.py <br>
+
+
 ## Dataset Preparation <br>
 dataset : https://www.kaggle.com/balraj98/deepglobe-road-extraction-dataset?select=train <br>
 &nbsp; recommendation <br>
