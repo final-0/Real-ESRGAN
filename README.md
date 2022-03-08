@@ -74,6 +74,7 @@ dataset : https://www.kaggle.com/balraj98/deepglobe-road-extraction-dataset?sele
 &nbsp; recommendation <br>
 &emsp; image-size : 1024x1024 <br>
 &emsp; number of images : 1000 <br>
+Variables may be changed freely, but if the image size is increased too much, it will cause memory overflow.
 
 ## Reference <br>
  github <br>
